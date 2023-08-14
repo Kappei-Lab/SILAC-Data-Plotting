@@ -1,4 +1,4 @@
-# SILAC Data PLotting
+# SILAC Data Plotting
 
 ## SILAC data plotting script for Kappei Lab 
 
