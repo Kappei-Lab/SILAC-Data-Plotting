@@ -1,0 +1,18 @@
+xlabel:$\log_{2}$ SILAC ratio (TERT WT L vs -124C>T H)
+ylabel:$\log_{2}$ SILAC ratio (TERT WT H vs -124C>T L)
+title: U87MG
+cut_off:2
+bait_protein:
+left_sig:True
+right_sig:True
+title_size:25
+xylabel_size:20
+legend_font:Arial
+legend_size:15
+color_1:indianred
+color_2:lightseagreen
+color_bait:dodgerblue
+x_lower_limit:
+x_upper_limit:
+y_lower_limit:
+y_upper_limit:
